@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Dasha Pishta](https://up.htmlacademy.ru/ecmascript/16/user/1028665).
-* Наставник: `Неизвестно`.
+* Наставник: [Dmitry Ryabinin](https://htmlacademy.ru/profile/haschish).
 
 ---
 
