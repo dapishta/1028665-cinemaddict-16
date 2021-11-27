@@ -7,4 +7,4 @@ export const createFilmsListTopRatedView = () => (
     </div>
   </section>
   `
-)
+);

@@ -7,4 +7,4 @@ export const createFilmsListMostCommentedView = () => (
     </div>
   </section>
   `
-)
+);

@@ -7,4 +7,4 @@ export const createFooterTemplate = () => (
     </section>
   </footer>
 `
-)
+);

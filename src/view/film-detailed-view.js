@@ -165,4 +165,4 @@ export const createFilmDetailedTemplate = () => (
       </form>
     </section>
   `
-)
+);
