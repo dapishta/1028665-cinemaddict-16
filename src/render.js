@@ -3,7 +3,7 @@ const RenderPosition = {
   AFTERBEGIN: 'afterbegin',
   BEFOREEND: 'beforeend',
   AFTEREND: 'afterend'
-}
+};
 
 function renderTemplate (container, component, place) {
   container.insertAdjacentHTML(place, component);
